@@ -1,0 +1,119 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton');
+@import url('https://fonts.googleapis.com/css?family=Anton|Oswald');
+
+
+
+
+body{
+
+	background: red;
+	font-family: 'Raleway', sans-serif;
+	margin: 0;
+	/*background-size: 100% 710%;*/
+	color: white;
+	/*font-size: 20px;*/
+
+}
+
+
+header{
+	background:black;
+	color:yellow;
+	padding: 8px 0px 6px 40px;
+	height: 60px;
+	
+}
+header h1{
+	display: inline;
+	font-family: 'Anton', sans-serif;
+	font-size: 50px;
+	float: left;
+	margin-top: 0px;
+	margin-right: 0px;
+}
+
+nav ul{
+	display: inline;
+	float: left;
+	padding:0px;
+
+}
+
+nav ul li{
+	display: inline-block;
+	list-style-type: none;
+	color:yellow;
+	float: left;
+	margin-left: 20px;
+}
+
+nav ul li a{
+	color:yellow;
+	text-decoration: none;
+}
+
+#nav{
+	font-family: 'Oswald', sans-serif;
+	margin-left: 40%;
+
+}
+
+
+.homered{
+	background-color: red;
+	padding: 20px 50px 40px 10px;
+}
+
+.divider{
+	background-color: red;
+	height:10px
+}
+
+
+.homesub{
+	margin: 20px;
+	padding: 20px;
+	font-size: 50px;
+	color: white;
+}
+
+.homedes{
+	color:white;
+	margin: 15px;
+	padding: 20px;
+}
+
+.homepho{
+	color:white;
+}
+
+.buttonhome{
+	margin: 0px 0px 0px 55px;
+	background-color:black;
+	color:yellow;
+	height: 50px;
+	border: none;
+	font-size: 1.6em;
+	padding: 0.1em;
+	cursor: pointer;
+	outline: none;
+	font-family: 'Oswald', sans-serif;
+	font-weight: 900;
+
+}
+
+.font{
+	float: left;
+}
+
+#contact{
+	background-color:red;
+	color: solid black;
+}
+
+.btn{
+	background-color: black;
+	color: yellow;
+}
+
